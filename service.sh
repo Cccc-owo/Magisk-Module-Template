@@ -1,0 +1,1 @@
+# Please see https://topjohnwu.github.io/Magisk/guides.html#boot-scripts
