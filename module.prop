@@ -4,4 +4,4 @@ version=<string>
 versionCode=<int>
 author=<string>
 description=<string>
-updateJson=<url> (optional)
+updateJson=<url> (see https://github.com/Cccc-owo/Magisk-Module-UpdateJSON/blob/main/update.json)
